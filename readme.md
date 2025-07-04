@@ -46,4 +46,4 @@ Este projeto foi desenvolvido com apoio do **ChatGPT (OpenAI)**, que me orientou
 **André Luiz Santos Costa**
 
 ---
-# Barbearia
+# 💇🏽‍♂️ Barbearia
